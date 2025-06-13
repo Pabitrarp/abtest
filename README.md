@@ -1,12 +1,32 @@
-# React + Vite
+# Abmedia Frontend Homepage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern, responsive homepage built using **React**, **Vite**, and **Material-UI (MUI)**. It showcases travel destinations, testimonials, and top-selling tour packages using data fetched from the [DummyJSON API](https://dummyjson.com/).
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔄 API Integration with DummyJSON
+- 🛍️ Top selling tour packages section
+- 📍 Explore locations with pagination
+- 💬 Testimonials with pagination
+- 🎨 Styled using Material UI components
+- 💻 Skeleton loading while fetching data
 
-## Expanding the ESLint configuration
+## 📦 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Vite
+- Material-UI
+- Axios
+- DummyJSON API
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Pabitrarp/abtest.git
+cd abtest
+### 2. install
+npm install
+### run
+npm run dev
